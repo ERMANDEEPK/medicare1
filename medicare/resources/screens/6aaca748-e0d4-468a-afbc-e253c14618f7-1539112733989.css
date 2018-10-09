@@ -1,0 +1,228 @@
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 > #alignmentBox {
+  position: relative;
+  max-width: 414px;
+  max-height: 736px;
+  width: 100%;
+  height: 100%;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Image_1 {
+  position: absolute;
+  width: 414px;
+  height: 740px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Image_1 > img, #s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Image_1 > svg {
+  height: 740px;
+  width: 414px;
+  box-shadow: none;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button > .backgroundLayer {
+  height: calc(100% + -4px);
+  width: calc(100% + -4px);
+  background-color: transparent;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: rgba(248,247,246,0.33);
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: rgba(248,247,246,0.33);
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: rgba(248,247,246,0.33);
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: rgba(248,247,246,0.33);
+  border-radius: 14px 14px 14px 14px;
+  box-shadow: none;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button {
+  position: absolute;
+  width: 342px;
+  height: 47px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 27px;
+  font-size: 14.000001pt;
+  font-family: 'Roboto-Medium',Arial;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button > .clipping, #s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button > .paddingLayer {
+  height: 29px;
+  width: 324px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Medium',Arial;
+  font-size: 14.000001pt;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button span#rtr-s-Button_0 {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Medium',Arial;
+  font-size: 14.000001pt;
+  line-height: 0px;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button_1 > .backgroundLayer {
+  height: calc(100% + -4px);
+  width: calc(100% + -4px);
+  background-color: transparent;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: rgba(248,247,246,0.33);
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: rgba(248,247,246,0.33);
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: rgba(248,247,246,0.33);
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: rgba(248,247,246,0.33);
+  border-radius: 14px 14px 14px 14px;
+  box-shadow: none;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button_1 {
+  position: absolute;
+  width: 342px;
+  height: 47px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 27px;
+  font-size: 14.000001pt;
+  font-family: 'Roboto-Medium',Arial;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button_1 > .clipping, #s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button_1 > .paddingLayer {
+  height: 29px;
+  width: 324px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button_1 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Medium',Arial;
+  font-size: 14.000001pt;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Button_1 span#rtr-s-Button_1_0 {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Medium',Arial;
+  font-size: 14.000001pt;
+  line-height: 0px;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Text_4 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Text_4 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 26.0pt;
+  font-family: 'Roboto-Bold',Arial;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Text_4 > .clipping, #s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Text_4 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Text_4 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Text_4 span {
+  color: #FFFFFF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Roboto-Bold',Arial;
+  font-size: 26.0pt;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 #s-Text_4 span#rtr-s-Text_4_0 {
+  color: #FFFFFF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Roboto-Bold',Arial;
+  font-size: 26.0pt;
+  line-height: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-6aaca748-e0d4-468a-afbc-e253c14618f7 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
